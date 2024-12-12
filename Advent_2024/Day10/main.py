@@ -62,7 +62,7 @@ def main():
     result = board.count_scores()
     result2 = board.count_ratings()
     assert result == 644
-    # assert result2 == 6359491814941
+    assert result2 == 1366
     print(f"{result=}, {result2=}")
 
 
