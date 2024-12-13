@@ -171,7 +171,6 @@ def main():
     assert result == 1421958
     assert result2 == 885394
     print(f"{result=}, {result2=}")
-    print(120 + 16 * 30)
 
 
 if __name__ == '__main__':
